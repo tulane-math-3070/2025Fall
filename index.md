@@ -8,7 +8,7 @@ title: Math 3070/6070
 This course will provide a calculus-based introduction to probability theory. Material covered will include fundamental axioms of probability, combinatorics, discrete and continuous random variables, multivariate distributions, expectation, and limit theorems, generally following Chapters 1-5 of the textbook. This course is a critical prerequisite for more advanced work in statistical theory and analysis.
 
 ## Textbook
-Casella, G., and Berger, R. L. (2000). _Statistical Inference_, 2nd edition. Duxbury.
+Casella, G. and Berger, R. L. (2000). _Statistical Inference_, 2nd edition. Duxbury.
 
 ## Time and Location
 
