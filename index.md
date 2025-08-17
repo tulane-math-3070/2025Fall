@@ -14,13 +14,14 @@ Casella, G., and Berger, R. L. (2000). _Statistical Inference_, 2nd edition. Dux
 
 Lectures: 
 
-- Mon/Wed/Fri, 9:00 am - 9:50 am, Tilton Memorial Hall 305 with zoom link <https://tulane.zoom.us/j/94114129491>
+- Mon/Wed/Fri, 9:00 am - 9:50 am, Richardson Memorial Hall 204 
+
 
 Recitation:
 
-- Thursday (Math 3071/6071-01), 12:30 pm - 1:45 pm, Gibson Hall 126
+- Thursday (Math 3071/6071-01), 12:30 pm - 1:45 pm, Gibson Hall 126A
 
-- Tuesday (Math 3071/6071-02), 2:00 pm - 3:15 pm, F. Edward Hebert Hall 212
+- Tuesday (Math 3071/6071-02), 2:00 pm - 3:15 pm, Norman Mayer Building 118
 
 
 ## Instructor
@@ -28,12 +29,12 @@ Recitation:
 [Dr. Xiang Ji](https://sse.tulane.edu/math/faculty/ji)\
 Office: Gibson 401D\
 Email: <xji4@tulane.edu>\
-Office hours: Friday 10:00 am - 10:45 am.
+Office hours: Friday 10:00 am - 10:30 am.
 
 ## Teaching Assistant
-[Lan Trinh](https://sse.tulane.edu/content/current-graduate-students)\
+[Ketan Kalgi](https://sse.tulane.edu/math/people/ketan-kalgi)\
 Office: TBD\
-Email: <ttrinh1@tulane.edu>\
+Email: <kkalgi@tulane.edu>\
 Office hours: TBD
 
 
