@@ -26,7 +26,7 @@ Topics:
 
 | Monday | Wednesday | Friday | HW |
 |:-----------|:-----------|:------------|:---|
-| **08/18** Introduction |   |  |  |
+| **08/18** Introduction | **08/20** Set operations   |  |  |
 | **09/01** _no class_ (Labor Day Holiday) | | | |
 | | | **10/03** _no class_ (Fall Break) | |
 | **11/24** _no class_ (Thanksgiving Holiday) | **11/26**  _no class_ (Thanksgiving Holiday) | **11/28**  _no class_ (Thanksgiving Holiday) | |
