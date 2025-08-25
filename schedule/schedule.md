@@ -26,7 +26,7 @@ Topics:
 
 | Monday | Wednesday | Friday | HW |
 |:-----------|:-----------|:------------|:---|
-| **08/18** Introduction | **08/20** Set operations   | **08/20** Set theory  | [HW1](../HW/HW1/HW1.pdf) |
+| **08/18** Introduction | **08/20** Set operations   | **08/22** Set theory  | [HW1](../HW/HW1/HW1.pdf) |
 | **08/25** Axioms of probability | | | |
 | **09/01** _no class_ (Labor Day Holiday) | | | |
 | | | **10/03** _no class_ (Fall Break) | |
