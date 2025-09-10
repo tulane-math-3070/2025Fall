@@ -29,6 +29,6 @@ Topics:
 | **08/18** Introduction | **08/20** Set operations   | **08/22** Set theory  | [HW1](../HW/HW1/HW1.pdf) |
 | **08/25** Axioms of probability | **08/27** Calculus of probabilities | **08/29** Calculus of probabilities cont. | |
 | **09/01** _no class_ (Labor Day Holiday) | **09/03** Conditional Probability | **09/05** Independence | [HW2](../HW/HW1.5/HW2.pdf) |
-| **09/08** Random variable | **09/10** Distribution Functions | | |
+| **09/08** Random variable | **09/10** Distribution Functions | **09/12** Types of random variables | |
 | | | **10/03** _no class_ (Fall Break) | |
 | **11/24** _no class_ (Thanksgiving Holiday) | **11/26**  _no class_ (Thanksgiving Holiday) | **11/28**  _no class_ (Thanksgiving Holiday) | |
