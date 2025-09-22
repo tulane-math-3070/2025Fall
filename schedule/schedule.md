@@ -31,6 +31,6 @@ Topics:
 | **09/01** _no class_ (Labor Day Holiday) | **09/03** Conditional Probability | **09/05** Independence | [HW2](../HW/HW1.5/HW2.pdf) |
 | **09/08** Random variable | **09/10** Distribution Functions | **09/12** Types of random variables |  |
 | **09/15** Discrete random variable | **09/17** Continuous random variable | **09/19** Transformation | [HW3](../HW/HW2/HW3.pdf) |
-| **09/22** Transformation of continuous r.v. | | | |
+| **09/22** Transformation of continuous r.v. | **09/24** Transformation cont. | | |
 | | | **10/03** _no class_ (Fall Break) | |
 | **11/24** _no class_ (Thanksgiving Holiday) | **11/26**  _no class_ (Thanksgiving Holiday) | **11/28**  _no class_ (Thanksgiving Holiday) | |
