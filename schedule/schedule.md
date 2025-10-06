@@ -33,4 +33,5 @@ Topics:
 | **09/15** Discrete random variable | **09/17** Continuous random variable | **09/19** Transformation | [HW3](../HW/HW2/HW3.pdf) |
 | **09/22** Transformation of continuous r.v. | **09/24** Transformation cont. | **09/26** Transformation cont. | |
 | **09/29** Midterm 1 | **10/01** Expectation | **10/03** _no class_ (Fall Break) | |
+| **10/06** Expectation cont. | | | |
 | **11/24** _no class_ (Thanksgiving Holiday) | **11/26**  _no class_ (Thanksgiving Holiday) | **11/28**  _no class_ (Thanksgiving Holiday) | |
