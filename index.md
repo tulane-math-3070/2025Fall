@@ -33,9 +33,9 @@ Office hours: Friday 10:00 am - 10:30 am.
 
 ## Teaching Assistant
 [Ketan Kalgi](https://sse.tulane.edu/math/people/ketan-kalgi)\
-Office: TBD\
+Office: Math Center\
 Email: <kkalgi@tulane.edu>\
-Office hours: TBD
+Office hours: 3:30 pm - 5:30 pm on Tuesday
 
 
 ## Acknowledgement
