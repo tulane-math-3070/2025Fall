@@ -29,7 +29,7 @@ Recitation:
 [Dr. Xiang Ji](https://sse.tulane.edu/math/faculty/ji)\
 Office: Gibson 401D\
 Email: <xji4@tulane.edu>\
-Office hours: Friday 10:00 am - 10:30 am.
+Office hours: Friday 10 am - 12 pm, 1 pm - 2 pm and 3 pm - 4 pm.
 
 ## Teaching Assistant
 [Ketan Kalgi](https://sse.tulane.edu/math/people/ketan-kalgi)\
