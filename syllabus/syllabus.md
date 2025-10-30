@@ -3,7 +3,7 @@ layout: course
 title: Math 3070/6070
 ---
 
-# Math 3070/6070 - Introduction to Probability - Fall 2023
+# Math 3070/6070 - Introduction to Probability - Fall 2025
 
 Here is a link for the [syllabus](./F25_3070_syllabus.pdf) if it doesn't appear automatically. 
 
