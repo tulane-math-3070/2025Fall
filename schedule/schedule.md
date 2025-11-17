@@ -39,5 +39,5 @@ Topics:
 | **10/27** Common discrete distributions | **10/29** Common discrete distributions | **10/31** Common continuous distributions | [HW5](../HW/HW5/HW5.pdf) |
 | **11/03** Common continuous distributions | **11/05** Common continuous distributions | **11/07** Common continuous distributions | |
 | **11/10** Common continuous distributions | **11/12** Midterm 2 | **11/14** Location, scale and exponential families | |
-| **11/17** Multiple random variables | **11/19** Joint distributions | | |
+| **11/17** Multiple random variables | **11/19** Joint distributions | | [HW6](../HW/HW6/HW6.pdf) |
 | **11/24** _no class_ (Thanksgiving Holiday) | **11/26**  _no class_ (Thanksgiving Holiday) | **11/28**  _no class_ (Thanksgiving Holiday) | |
