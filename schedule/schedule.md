@@ -41,4 +41,4 @@ Topics:
 | **11/10** Common continuous distributions | **11/12** Midterm 2 | **11/14** Location, scale and exponential families | |
 | **11/17** Multiple random variables | **11/19** Joint distributions | **11/21** Conditional and independence | [HW6](../HW/HW6/HW6.pdf) |
 | **11/24** _no class_ (Thanksgiving Holiday) | **11/26**  _no class_ (Thanksgiving Holiday) | **11/28**  _no class_ (Thanksgiving Holiday) | |
-| **12/01** Bivariate transformation | **12/03** Bivariate transformation cont. | | |
+| **12/01** Bivariate transformation | **12/03** Sum of independent rvs | **12/05** Convergence and Central limit theorem | |
